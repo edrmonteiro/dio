@@ -1,0 +1,16 @@
+/home/eduardo/dev/dio/algorithm/Challenge/bin/Debug/net5.0/Challenge
+/home/eduardo/dev/dio/algorithm/Challenge/bin/Debug/net5.0/Challenge.deps.json
+/home/eduardo/dev/dio/algorithm/Challenge/bin/Debug/net5.0/Challenge.runtimeconfig.json
+/home/eduardo/dev/dio/algorithm/Challenge/bin/Debug/net5.0/Challenge.runtimeconfig.dev.json
+/home/eduardo/dev/dio/algorithm/Challenge/bin/Debug/net5.0/Challenge.dll
+/home/eduardo/dev/dio/algorithm/Challenge/bin/Debug/net5.0/ref/Challenge.dll
+/home/eduardo/dev/dio/algorithm/Challenge/bin/Debug/net5.0/Challenge.pdb
+/home/eduardo/dev/dio/algorithm/Challenge/obj/Debug/net5.0/Challenge.csprojAssemblyReference.cache
+/home/eduardo/dev/dio/algorithm/Challenge/obj/Debug/net5.0/Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/eduardo/dev/dio/algorithm/Challenge/obj/Debug/net5.0/Challenge.AssemblyInfoInputs.cache
+/home/eduardo/dev/dio/algorithm/Challenge/obj/Debug/net5.0/Challenge.AssemblyInfo.cs
+/home/eduardo/dev/dio/algorithm/Challenge/obj/Debug/net5.0/Challenge.csproj.CoreCompileInputs.cache
+/home/eduardo/dev/dio/algorithm/Challenge/obj/Debug/net5.0/Challenge.dll
+/home/eduardo/dev/dio/algorithm/Challenge/obj/Debug/net5.0/ref/Challenge.dll
+/home/eduardo/dev/dio/algorithm/Challenge/obj/Debug/net5.0/Challenge.pdb
+/home/eduardo/dev/dio/algorithm/Challenge/obj/Debug/net5.0/Challenge.genruntimeconfig.cache
