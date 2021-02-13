@@ -22,3 +22,4 @@ dotnetmongo/api/bin/Debug/net5.0/runtimes/win/native/libzstd.dll
 dotnetmongo/api/bin/Debug/net5.0/runtimes/win/native/snappy32.dll
 dotnetmongo/api/bin/Debug/net5.0/runtimes/win/native/snappy64.dll
 dotnetmongo/api/obj/Debug/net5.0/api.csprojAssemblyReference.cache
+
