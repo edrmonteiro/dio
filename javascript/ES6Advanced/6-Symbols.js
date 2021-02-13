@@ -1,5 +1,7 @@
 //Symbols
+//before symbol introduction on javascript there was 6 types 
 
+//unique identifier
 const uniqueId = Symbol('Hello');
 const uniqueId2 = Symbol('Hello');
 console.log(uniqueId === uniqueId2);
@@ -19,7 +21,6 @@ Symbol.toStringTag;
 
 
 const arr = [1,2,3,4];
-const str = "Digital Innovation One";
 const it = arr[Symbol.iterator]();
 
 while (true){
@@ -29,17 +30,14 @@ while (true){
         break;
     }
 }
-
 console.log(it);
 console.log(it.next());
-console.log(it.next());
-console.log(it.next());
-console.log(it.next());
-console.log(it.next());
 
-for (let value of arr) {
+for (let value of arr) {        //ES6 
     console.log(value);
 }
+
+const str = "Digital Innovation One";
 
 for (let value of str) {
     console.log(value);
@@ -50,7 +48,7 @@ for (let value of str) {
 
 console.log(arr[Symbol.iterator]())
 
-var obj3 = {
+var obj3 = {                ///originally objects properties are not iterable, so you can use Symbol to solve this
     values: [1,2,3,4],
     [Symbol.iterator]() {
         let i = 0;
@@ -65,6 +63,11 @@ var obj3 = {
         }
     }
 }
+
+const it1 = obj3[Symbol.iterator]();
+console.log(it1.next());
+console.log(it1.next());
+console.log(it1.next());
 
 const arr4 = [...obj3];
 console.log(arr4);
